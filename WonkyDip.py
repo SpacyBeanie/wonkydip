@@ -1,6 +1,6 @@
 import sqlite3
 ##Settings
-#The location of your lbp.db database file. 
+#The location of your dry.db database file. 
 dblocation = """Path/to/thing/too/lazy/to/use/env/vars""" 
 #The number of the game entry you want levels from. Self explanatory
 GameNumber = 2 
