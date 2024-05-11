@@ -1,7 +1,7 @@
 import sqlite3
 ##Settings
 #The location of your lbp.db database file. 
-dblocation = """D:\DB.Browser.for.SQLite-3.12.2-win64\DB Browser for SQLite\lbp.db""" 
+dblocation = """Path/to/thing/too/lazy/to/use/env/vars""" 
 #The number of the game entry you want levels from. Self explanatory
 GameNumber = 2 
 #The SQL statement the script uses. Unless you know how SQL works i would advise not to change this
